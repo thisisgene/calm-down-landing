@@ -215,3 +215,31 @@ body {
       .main-container .content-container .album-info-mobile p .song-title {
         display: inline-block;
         margin-left: 1.5rem; }
+
+.social {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 1rem auto 2rem; }
+  @media (min-width: 921px) {
+    .social {
+      margin: 3rem auto 0;
+      position: absolute;
+      bottom: 0; } }
+  .social .sm-link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; }
+    .social .sm-link a {
+      margin: 1rem; }
+      @media (min-width: 921px) {
+        .social .sm-link a {
+          opacity: .6;
+          transition: opacity 200ms ease-in-out; }
+          .social .sm-link a:hover {
+            opacity: 1; } }
+      .social .sm-link a img {
+        width: 30px; }

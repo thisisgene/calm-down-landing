@@ -77,6 +77,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/_includes/social.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_includes/social.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"/assets/css/1-base/main.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -86,6 +96,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/1-base/main.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/assets/css/1-base/social.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/css/1-base/social.css",
 		"oF": 0,
 		"oS": 0,
 		"sct": 1
@@ -247,6 +270,39 @@
 		"iS": 5365,
 		"oA": 0,
 		"oAP": "/assets/img/CTA3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/logos/facebook.png": {
+		"ft": 32768,
+		"iS": 1588,
+		"oA": 0,
+		"oAP": "/assets/img/logos/facebook.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/logos/instagram.png": {
+		"ft": 32768,
+		"iS": 1573,
+		"oA": 0,
+		"oAP": "/assets/img/logos/instagram.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/logos/mail.png": {
+		"ft": 32768,
+		"iS": 2765,
+		"oA": 0,
+		"oAP": "/assets/img/logos/mail.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
